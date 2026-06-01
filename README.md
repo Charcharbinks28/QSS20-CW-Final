@@ -29,3 +29,5 @@ This project investigates whether PFAS (per- and polyfluoroalkyl substances) con
 
 - `output/nj_pfas_map.png` – Choropleth map of mean PFAS concentration by ZIP code in New Jersey.
 - `output/nj_pfas_vs_race_map.png` – Map comparing PFAS levels against racial composition by ZIP code.
+
+The processed outputs (ucmr5_nj_slim.csv, zipcodes_raw.csv, census_raw.csv, nj_zcta_2024.geojson) are already committed to the repo — you only need the raw files if you want to re-run notebook 01 from scratch.
