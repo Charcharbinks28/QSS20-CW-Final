@@ -21,7 +21,33 @@ This project investigates whether PFAS (per- and polyfluoroalkyl substances) con
 - **U.S. Census Bureau** – ZIP code-level demographic data (race, population) via the Census API.
 - **NJ ZCTA Shapefile** – New Jersey ZIP Code Tabulation Areas (2024) for geographic mapping.
 
-> Raw data files are stored in the `data/` folder of this repository.
+> ⚠️ **The raw source files are too large for GitHub and are NOT included in this repo.**
+> The full UCMR5 dataset is ~175MB. Only the pre-processed, NJ-filtered outputs are committed.
+> See instructions below to download the raw files if you want to re-run notebook 01 from scratch.
+
+---
+
+## Data
+
+### Pre-processed files (committed to repo — ready to use)
+These are already in `data/` and are all you need to run notebooks 02 and 03:
+
+| File | Description |
+|------|-------------|
+| `data/ucmr5_nj_slim.csv` | NJ-filtered PFAS occurrence data (56,542 rows) |
+| `data/zipcodes_raw.csv` | ZIP code to water system mapping |
+| `data/census_raw.csv` | Census ACS DP05 demographics for NJ ZCTAs |
+| `data/nj_zcta_2024.geojson` | NJ ZIP code boundary shapes |
+
+### Raw source files (too large for GitHub — download separately)
+Only needed to re-run `01_data_pull_me_search.ipynb`. Download and place in `data/raw/`:
+
+| File | Source | Size |
+|------|--------|------|
+| `UCMR5_All_MA_WY.txt` | [EPA UCMR5](https://www.epa.gov/dwucmr/occurrence-data-unregulated-contaminant-monitoring-rule) | ~175MB |
+| `UCMR5_ZIPCodes.txt` | [EPA UCMR5](https://www.epa.gov/dwucmr/occurrence-data-unregulated-contaminant-monitoring-rule) | ~0.5MB |
+| `ACSDP5Y2024.DP05-Data.csv` | [Census Bureau](https://data.census.gov) | ~1MB |
+| `tl_2024_us_zcta520/` (folder) | [Census TIGER](https://www.census.gov/cgi-bin/geo/shapefiles/index.php) | ~500MB |
 
 ---
 
@@ -29,5 +55,3 @@ This project investigates whether PFAS (per- and polyfluoroalkyl substances) con
 
 - `output/nj_pfas_map.png` – Choropleth map of mean PFAS concentration by ZIP code in New Jersey.
 - `output/nj_pfas_vs_race_map.png` – Map comparing PFAS levels against racial composition by ZIP code.
-
-The processed outputs (ucmr5_nj_slim.csv, zipcodes_raw.csv, census_raw.csv, nj_zcta_2024.geojson) are already committed to the repo — you only need the raw files if you want to re-run notebook 01 from scratch.
