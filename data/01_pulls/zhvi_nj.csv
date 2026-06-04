@@ -1,0 +1,548 @@
+ZIPCODE,State,City,Metro,CountyName,zhvi
+08701,NJ,Lakewood,"New York-Newark-Jersey City, NY-NJ-PA",Ocean County,528001.198927269
+07055,NJ,Passaic,"New York-Newark-Jersey City, NY-NJ-PA",Passaic County,528951.8127635985
+07305,NJ,Jersey City,"New York-Newark-Jersey City, NY-NJ-PA",Hudson County,549833.4969723378
+07087,NJ,Union City,"New York-Newark-Jersey City, NY-NJ-PA",Hudson County,506978.4146887906
+08753,NJ,Toms River,"New York-Newark-Jersey City, NY-NJ-PA",Ocean County,517253.8233635485
+08854,NJ,Piscataway,"New York-Newark-Jersey City, NY-NJ-PA",Middlesex County,563800.9276167847
+07093,NJ,West New York,"New York-Newark-Jersey City, NY-NJ-PA",Hudson County,438920.4425492918
+07047,NJ,North Bergen Township,"New York-Newark-Jersey City, NY-NJ-PA",Hudson County,565547.1681703259
+07002,NJ,Bayonne,"New York-Newark-Jersey City, NY-NJ-PA",Hudson County,578074.9484615728
+07111,NJ,Irvington,"New York-Newark-Jersey City, NY-NJ-PA",Essex County,408892.32274288574
+08527,NJ,Jackson,"New York-Newark-Jersey City, NY-NJ-PA",Ocean County,614091.8752040596
+07728,NJ,Freehold,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,621017.4297725408
+08861,NJ,Perth Amboy,"New York-Newark-Jersey City, NY-NJ-PA",Middlesex County,479294.03846968507
+08901,NJ,New Brunswick,"New York-Newark-Jersey City, NY-NJ-PA",Middlesex County,439987.6765221288
+07083,NJ,Union,"New York-Newark-Jersey City, NY-NJ-PA",Union County,547327.6917115451
+07306,NJ,Jersey City,"New York-Newark-Jersey City, NY-NJ-PA",Hudson County,542035.1240745606
+08873,NJ,Somerset,"New York-Newark-Jersey City, NY-NJ-PA",Somerset County,553992.8365798417
+08831,NJ,Monroe Township,"New York-Newark-Jersey City, NY-NJ-PA",Middlesex County,586774.1730573644
+07470,NJ,Wayne,"New York-Newark-Jersey City, NY-NJ-PA",Passaic County,693614.648150728
+07104,NJ,Newark,"New York-Newark-Jersey City, NY-NJ-PA",Essex County,512414.2841024899
+07105,NJ,Newark,"New York-Newark-Jersey City, NY-NJ-PA",Essex County,561278.2734925385
+08540,NJ,Princeton,"Trenton-Princeton, NJ",Mercer County,935576.4673937564
+07030,NJ,Hoboken,"New York-Newark-Jersey City, NY-NJ-PA",Hudson County,854368.0354802246
+07003,NJ,Bloomfield,"New York-Newark-Jersey City, NY-NJ-PA",Essex County,582757.3291699187
+08081,NJ,Sicklerville,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Camden County,362589.01947881817
+08302,NJ,Bridgeton,"Vineland-Bridgeton, NJ",Cumberland County,249177.31264619203
+08816,NJ,East Brunswick,"New York-Newark-Jersey City, NY-NJ-PA",Middlesex County,589701.081343386
+07052,NJ,West Orange,"New York-Newark-Jersey City, NY-NJ-PA",Essex County,628563.8556259644
+07302,NJ,Jersey City,"New York-Newark-Jersey City, NY-NJ-PA",Hudson County,900331.6483794762
+07304,NJ,Jersey City,"New York-Newark-Jersey City, NY-NJ-PA",Hudson County,541486.2815145556
+07060,NJ,Plainfield,"New York-Newark-Jersey City, NY-NJ-PA",Union County,507225.5910085631
+08021,NJ,Lindenwold,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Camden County,275076.6597522318
+08053,NJ,Evesham Township,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Burlington County,472404.3142161661
+07960,NJ,Morristown,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,842963.1977854874
+08817,NJ,Edison,"New York-Newark-Jersey City, NY-NJ-PA",Middlesex County,527200.6305189807
+07601,NJ,Hackensack,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,452061.7244284066
+08234,NJ,Egg Harbor Township,"Atlantic City-Hammonton, NJ",Atlantic County,374681.6824359575
+07202,NJ,Elizabeth,"New York-Newark-Jersey City, NY-NJ-PA",Union County,480039.3471687332
+07036,NJ,Linden,"New York-Newark-Jersey City, NY-NJ-PA",Union County,514550.6777886969
+07726,NJ,Manalapan Township,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,762622.3725099446
+08054,NJ,Mt Laurel Township,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Burlington County,386527.0319991017
+08360,NJ,Vineland,"Vineland-Bridgeton, NJ",Cumberland County,281746.47129232547
+07032,NJ,Kearny,"New York-Newark-Jersey City, NY-NJ-PA",Hudson County,557101.5854806761
+08844,NJ,Hillsborough Township,"New York-Newark-Jersey City, NY-NJ-PA",Somerset County,665291.4179403981
+07307,NJ,Jersey City,"New York-Newark-Jersey City, NY-NJ-PA",Hudson County,735904.646071087
+08080,NJ,Sewell,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Gloucester County,415318.0214685905
+08902,NJ,North Brunswick,"New York-Newark-Jersey City, NY-NJ-PA",Middlesex County,520066.1723021924
+07107,NJ,Newark,"New York-Newark-Jersey City, NY-NJ-PA",Essex County,522301.4539491621
+07666,NJ,Teaneck,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,660869.0614946694
+08857,NJ,Old Bridge,"New York-Newark-Jersey City, NY-NJ-PA",Middlesex County,603339.0684743571
+08820,NJ,Edison,"New York-Newark-Jersey City, NY-NJ-PA",Middlesex County,795978.1489632054
+07011,NJ,Clifton,"New York-Newark-Jersey City, NY-NJ-PA",Passaic County,548756.7240348505
+08094,NJ,Williamstown,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Gloucester County,356209.3638544281
+07731,NJ,Howell,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,635603.5661239439
+08724,NJ,Brick,"New York-Newark-Jersey City, NY-NJ-PA",Ocean County,482548.6332963933
+07712,NJ,Ocean,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,709890.7333636532
+08807,NJ,Bridgewater Township,"New York-Newark-Jersey City, NY-NJ-PA",Somerset County,710958.0164330158
+07024,NJ,Fort Lee,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,551931.9325247692
+07017,NJ,East Orange,"New York-Newark-Jersey City, NY-NJ-PA",Essex County,487773.6381699185
+08401,NJ,Atlantic City,"Atlantic City-Hammonton, NJ",Atlantic County,211022.96606687535
+07109,NJ,Belleville,"New York-Newark-Jersey City, NY-NJ-PA",Essex County,494646.5820071081
+07753,NJ,Neptune Township,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,550993.1576457153
+08012,NJ,Grenloch,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Camden County,347019.3086128432
+07103,NJ,Newark,"New York-Newark-Jersey City, NY-NJ-PA",Essex County,387466.3892796223
+08618,NJ,Trenton,"Trenton-Princeton, NJ",Mercer County,268857.4658260975
+08759,NJ,Toms River,"New York-Newark-Jersey City, NY-NJ-PA",Ocean County,277205.771021413
+07501,NJ,Paterson,"New York-Newark-Jersey City, NY-NJ-PA",Passaic County,463686.9356121314
+08096,NJ,Woodbury,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Gloucester County,323502.8751637198
+07106,NJ,Newark,"New York-Newark-Jersey City, NY-NJ-PA",Essex County,462551.4834958259
+08332,NJ,Millville,"Vineland-Bridgeton, NJ",Cumberland County,250686.358926565
+07410,NJ,Fair Lawn,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,671378.8891136571
+08016,NJ,Burlington Township,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Burlington County,387107.503352262
+07050,NJ,Orange,"New York-Newark-Jersey City, NY-NJ-PA",Essex County,476252.6476441485
+07208,NJ,Elizabeth,"New York-Newark-Jersey City, NY-NJ-PA",Union County,545494.231549187
+08723,NJ,Brick,"New York-Newark-Jersey City, NY-NJ-PA",Ocean County,487723.79948917165
+07026,NJ,Garfield,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,568054.90101731
+07747,NJ,Matawan,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,622808.8245080955
+08610,NJ,Trenton,"Trenton-Princeton, NJ",Mercer County,356316.9008896146
+07740,NJ,Long Branch,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,784882.1443187142
+08520,NJ,Hightstown,"Trenton-Princeton, NJ",Mercer County,466911.2537256213
+08046,NJ,Willingboro Township,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Burlington County,348499.9953647443
+08648,NJ,Lawrence Township,"Trenton-Princeton, NJ",Mercer County,459134.5125661726
+07039,NJ,Livingston,"New York-Newark-Jersey City, NY-NJ-PA",Essex County,1011399.4511826496
+08003,NJ,Cherry Hill,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Camden County,538647.0733142437
+07090,NJ,Westfield,"New York-Newark-Jersey City, NY-NJ-PA",Union County,1181911.9331208284
+08043,NJ,Voorhees Township,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Camden County,494521.7946033934
+08822,NJ,Flemington,"New York-Newark-Jersey City, NY-NJ-PA",Hunterdon County,612327.0540930303
+07013,NJ,Clifton,"New York-Newark-Jersey City, NY-NJ-PA",Passaic County,587619.291135846
+08757,NJ,Toms River,"New York-Newark-Jersey City, NY-NJ-PA",Ocean County,335402.64852052584
+08865,NJ,Phillipsburg,"Allentown-Bethlehem-Easton, PA-NJ",Warren County,333296.9153714977
+07018,NJ,East Orange,"New York-Newark-Jersey City, NY-NJ-PA",Essex County,466857.2777088443
+08611,NJ,Trenton,"Trenton-Princeton, NJ",Mercer County,195744.8224255696
+07840,NJ,Hackettstown,"Allentown-Bethlehem-Easton, PA-NJ",Warren County,473825.5196655528
+07110,NJ,Nutley,"New York-Newark-Jersey City, NY-NJ-PA",Essex County,628119.3060288971
+07065,NJ,Rahway,"New York-Newark-Jersey City, NY-NJ-PA",Union County,511524.1572652505
+07054,NJ,Parsippany,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,707430.3592085956
+08075,NJ,Delran Township,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Burlington County,373062.98747529293
+07631,NJ,Englewood,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,607750.7002525659
+08330,NJ,Mays Landing,"Atlantic City-Hammonton, NJ",Atlantic County,298877.68735536374
+07201,NJ,Elizabeth,"New York-Newark-Jersey City, NY-NJ-PA",Union County,469679.9377282786
+08055,NJ,Medford Township,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Burlington County,577453.6228916466
+08005,NJ,Barnegat,"New York-Newark-Jersey City, NY-NJ-PA",Ocean County,478267.8614380616
+07748,NJ,Middletown,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,723101.0591416362
+07621,NJ,Bergenfield,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,608022.6952897154
+07108,NJ,Newark,"New York-Newark-Jersey City, NY-NJ-PA",Essex County,511856.5434467236
+07042,NJ,Montclair,"New York-Newark-Jersey City, NY-NJ-PA",Essex County,877245.9218695475
+07920,NJ,Basking Ridge,"New York-Newark-Jersey City, NY-NJ-PA",Somerset County,882648.5364178871
+08755,NJ,Toms River,"New York-Newark-Jersey City, NY-NJ-PA",Ocean County,505330.0632651429
+08638,NJ,Ewing,"Trenton-Princeton, NJ",Mercer County,319614.9562701763
+07675,NJ,River Vale,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,844678.8907093639
+07801,NJ,Dover,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,499832.191131232
+07112,NJ,Newark,"New York-Newark-Jersey City, NY-NJ-PA",Essex County,489189.82179792575
+07206,NJ,Elizabeth,"New York-Newark-Jersey City, NY-NJ-PA",Union County,479236.2518934855
+08105,NJ,Camden,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Camden County,181008.87871632943
+07652,NJ,Paramus,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,969359.4971426488
+07006,NJ,West Caldwell,"New York-Newark-Jersey City, NY-NJ-PA",Essex County,807492.0629393406
+08619,NJ,Trenton,"Trenton-Princeton, NJ",Mercer County,425307.959205993
+07860,NJ,Newton,"New York-Newark-Jersey City, NY-NJ-PA",Sussex County,428452.0873772923
+08205,NJ,Galloway,"Atlantic City-Hammonton, NJ",Atlantic County,320513.95867871377
+07424,NJ,Woodland Park,"New York-Newark-Jersey City, NY-NJ-PA",Passaic County,605107.6300266897
+07869,NJ,Randolph,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,773728.6417659017
+07450,NJ,Ridgewood,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,1111882.8081352434
+07644,NJ,Lodi,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,582219.029041381
+07430,NJ,Mahwah Township,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,671620.8418929505
+07010,NJ,Cliffside Park,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,606978.1962323772
+08060,NJ,Mt Holly Township,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Burlington County,394907.8229274272
+07076,NJ,Scotch Plains,"New York-Newark-Jersey City, NY-NJ-PA",Union County,773255.6620502978
+08742,NJ,Point Pleasant,"New York-Newark-Jersey City, NY-NJ-PA",Ocean County,777124.0488333179
+07008,NJ,Carteret,"New York-Newark-Jersey City, NY-NJ-PA",Middlesex County,523086.60427457985
+07040,NJ,Maplewood,"New York-Newark-Jersey City, NY-NJ-PA",Essex County,877490.2803483332
+07080,NJ,South Plainfield,"New York-Newark-Jersey City, NY-NJ-PA",Middlesex County,529143.8289657246
+08088,NJ,Southampton Township,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Burlington County,446032.08458979736
+08050,NJ,Manahawkin,"New York-Newark-Jersey City, NY-NJ-PA",Ocean County,561180.6497494433
+07701,NJ,Red Bank,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,650290.6920937357
+08087,NJ,Tuckerton,"New York-Newark-Jersey City, NY-NJ-PA",Ocean County,394551.67920810543
+07508,NJ,North Haledon,"New York-Newark-Jersey City, NY-NJ-PA",Passaic County,589785.9494738438
+08037,NJ,Hammonton,"Atlantic City-Hammonton, NJ",Atlantic County,353275.67222962977
+07522,NJ,Paterson,"New York-Newark-Jersey City, NY-NJ-PA",Passaic County,462116.74893536296
+08109,NJ,Merchantville,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Camden County,317220.4706725587
+07016,NJ,Cranford,"New York-Newark-Jersey City, NY-NJ-PA",Union County,709746.8271688787
+07901,NJ,Summit,"New York-Newark-Jersey City, NY-NJ-PA",Union County,1196929.8978891124
+08876,NJ,Somerville,"New York-Newark-Jersey City, NY-NJ-PA",Somerset County,590768.2807230377
+08002,NJ,Cherry Hill,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Camden County,409141.01258575806
+07724,NJ,Eatontown,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,646557.1013199171
+07071,NJ,Lyndhurst,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,612611.4820100454
+07203,NJ,Roselle,"New York-Newark-Jersey City, NY-NJ-PA",Union County,492929.166400074
+08057,NJ,Moorestown Township,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Burlington County,713689.3359853845
+07205,NJ,Hillside,"New York-Newark-Jersey City, NY-NJ-PA",Union County,501649.82570383494
+08085,NJ,Swedesboro,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Gloucester County,452075.03916275565
+08028,NJ,Glassboro,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Gloucester County,355804.85893306666
+07094,NJ,Secaucus,"New York-Newark-Jersey City, NY-NJ-PA",Hudson County,600192.86277906
+08879,NJ,South Amboy,"New York-Newark-Jersey City, NY-NJ-PA",Middlesex County,495669.177444724
+07866,NJ,Rockaway,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,543035.1812386606
+08721,NJ,Bayville,"New York-Newark-Jersey City, NY-NJ-PA",Ocean County,502633.0244290651
+07950,NJ,Morris Plains,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,698059.7910910286
+07407,NJ,Elmwood Park,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,592711.5227463928
+08731,NJ,Forked River,"New York-Newark-Jersey City, NY-NJ-PA",Ocean County,473287.2286472774
+07719,NJ,Wall,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,784095.8619965218
+08232,NJ,Pleasantville,"Atlantic City-Hammonton, NJ",Atlantic County,230879.54442910777
+08015,NJ,Browns Mills,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Burlington County,320984.3833662273
+07871,NJ,Sparta Township,"New York-Newark-Jersey City, NY-NJ-PA",Sussex County,583786.0283708237
+08859,NJ,Parlin,"New York-Newark-Jersey City, NY-NJ-PA",Middlesex County,499453.7104719977
+07650,NJ,Palisades Park,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,868396.7687630482
+08034,NJ,Cherry Hill,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Camden County,422140.5546808035
+07503,NJ,Paterson,"New York-Newark-Jersey City, NY-NJ-PA",Passaic County,499339.3472474255
+08110,NJ,Pennsauken,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Camden County,266634.7822365015
+07751,NJ,Morganville,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,848767.2624828207
+08690,NJ,Trenton,"Trenton-Princeton, NJ",Mercer County,482047.81599553494
+08550,NJ,Princeton Junction,"Trenton-Princeton, NJ",Mercer County,981359.6673569534
+08052,NJ,Maple Shade Township,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Burlington County,332289.9499664229
+08077,NJ,Cinnaminson Township,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Burlington County,439981.1359712227
+08837,NJ,Edison,"New York-Newark-Jersey City, NY-NJ-PA",Middlesex County,513187.21728622774
+07029,NJ,Harrison,"New York-Newark-Jersey City, NY-NJ-PA",Hudson County,554469.1700768418
+07746,NJ,Marlboro,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,871212.381585658
+07506,NJ,Hawthorne,"New York-Newark-Jersey City, NY-NJ-PA",Passaic County,590536.3014878494
+08505,NJ,Bordentown Township,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Burlington County,443972.6964848687
+07735,NJ,Keyport,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,482758.349917565
+08104,NJ,Camden,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Camden County,129231.1067879856
+07514,NJ,Paterson,"New York-Newark-Jersey City, NY-NJ-PA",Passaic County,505996.23274724296
+08536,NJ,Plainsboro,"New York-Newark-Jersey City, NY-NJ-PA",Middlesex County,633742.0425849637
+07067,NJ,Colonia,"New York-Newark-Jersey City, NY-NJ-PA",Middlesex County,601422.3357554795
+08361,NJ,Vineland,"Vineland-Bridgeton, NJ",Cumberland County,336665.0743554576
+07001,NJ,Avenel,"New York-Newark-Jersey City, NY-NJ-PA",Middlesex County,498164.455781928
+08108,NJ,Collingswood,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Camden County,451906.7580358701
+08872,NJ,Sayreville,"New York-Newark-Jersey City, NY-NJ-PA",Middlesex County,501371.0316063866
+07928,NJ,Chatham,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,1215200.1680198172
+07070,NJ,Rutherford,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,694962.916519725
+07405,NJ,Kinnelon,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,648237.9090287379
+07079,NJ,South Orange,"New York-Newark-Jersey City, NY-NJ-PA",Essex County,983455.1178350928
+07095,NJ,Woodbridge,"New York-Newark-Jersey City, NY-NJ-PA",Middlesex County,442222.2969471556
+07461,NJ,Sussex,"New York-Newark-Jersey City, NY-NJ-PA",Sussex County,434214.7668910904
+08830,NJ,Iselin,"New York-Newark-Jersey City, NY-NJ-PA",Middlesex County,521069.8038263542
+07628,NJ,Dumont,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,616619.2564240805
+08852,NJ,Monmouth Junction,"New York-Newark-Jersey City, NY-NJ-PA",Middlesex County,659781.2896773765
+07733,NJ,Holmdel Township,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,1025546.3367863538
+07834,NJ,Denville,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,639629.5826990143
+08691,NJ,Trenton,"Trenton-Princeton, NJ",Mercer County,637688.0845610544
+08215,NJ,Egg Harbor City,"Atlantic City-Hammonton, NJ",Atlantic County,320385.29870635126
+07940,NJ,Madison,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,968782.865260336
+08062,NJ,Mullica Hill,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Gloucester County,576673.3635545279
+08840,NJ,Metuchen,"New York-Newark-Jersey City, NY-NJ-PA",Middlesex County,651323.4313810923
+07081,NJ,Springfield,"New York-Newark-Jersey City, NY-NJ-PA",Union County,679659.7816664432
+07730,NJ,Hazlet Township,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,587484.6852079664
+07502,NJ,Paterson,"New York-Newark-Jersey City, NY-NJ-PA",Passaic County,515142.7724562222
+07646,NJ,New Milford,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,677376.6041591074
+07481,NJ,Wyckoff,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,1034360.5500284666
+07005,NJ,Boonton,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,691455.4331793509
+07031,NJ,North Arlington,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,591529.4773550864
+08882,NJ,South River,"New York-Newark-Jersey City, NY-NJ-PA",Middlesex County,508912.4930500872
+08033,NJ,Haddonfield,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Camden County,733168.2237037347
+08204,NJ,Cape May,"Ocean City, NJ",Cape May County,687891.5141771571
+07059,NJ,Warren Township,"New York-Newark-Jersey City, NY-NJ-PA",Somerset County,1060716.0230433007
+07828,NJ,Budd Lake,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,543060.1897170393
+08210,NJ,Cape May Court House,"Ocean City, NJ",Cape May County,431731.7375209679
+08904,NJ,Highland Park,"New York-Newark-Jersey City, NY-NJ-PA",Middlesex County,545713.3132906184
+07066,NJ,Clark,"New York-Newark-Jersey City, NY-NJ-PA",Union County,696826.7776666376
+07670,NJ,Tenafly,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,1200728.7328697674
+07480,NJ,West Milford,"New York-Newark-Jersey City, NY-NJ-PA",Passaic County,472788.1392638001
+07022,NJ,Fairview,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,612674.5737697884
+08812,NJ,Dunellen,"New York-Newark-Jersey City, NY-NJ-PA",Middlesex County,573861.4123504686
+07114,NJ,Newark,"New York-Newark-Jersey City, NY-NJ-PA",Essex County,495792.02648810646
+07882,NJ,Washington,"Allentown-Bethlehem-Easton, PA-NJ",Warren County,399135.85621259594
+07446,NJ,Ramsey,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,801055.0725051014
+08846,NJ,Middlesex,"New York-Newark-Jersey City, NY-NJ-PA",Middlesex County,500141.69331124617
+07078,NJ,Short Hills,"New York-Newark-Jersey City, NY-NJ-PA",Essex County,2186568.696637982
+07063,NJ,Plainfield,"New York-Newark-Jersey City, NY-NJ-PA",Union County,477174.2679680872
+08103,NJ,Camden,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Camden County,149096.4864529956
+07663,NJ,Saddle Brook,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,627258.3198527665
+07044,NJ,Verona,"New York-Newark-Jersey City, NY-NJ-PA",Essex County,699974.4513439523
+07062,NJ,Plainfield,"New York-Newark-Jersey City, NY-NJ-PA",Union County,468263.4262578784
+08107,NJ,Collingswood,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Camden County,325235.7224440945
+08009,NJ,Berlin,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Camden County,381191.97762709047
+07524,NJ,Paterson,"New York-Newark-Jersey City, NY-NJ-PA",Passaic County,502752.3101660643
+07204,NJ,Roselle Park,"New York-Newark-Jersey City, NY-NJ-PA",Union County,533930.4620710223
+07086,NJ,Weehawken,"New York-Newark-Jersey City, NY-NJ-PA",Hudson County,822545.1863717757
+08030,NJ,Gloucester City,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Camden County,244108.53878521163
+08805,NJ,Bound Brook,"New York-Newark-Jersey City, NY-NJ-PA",Somerset County,524859.2920175801
+08863,NJ,Fords,"New York-Newark-Jersey City, NY-NJ-PA",Middlesex County,492731.59218487126
+07012,NJ,Clifton,"New York-Newark-Jersey City, NY-NJ-PA",Passaic County,606019.9730004895
+07853,NJ,Long Valley,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,716159.8160658488
+08069,NJ,Carneys Point,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Salem County,238186.9399994531
+07974,NJ,New Providence,"New York-Newark-Jersey City, NY-NJ-PA",Union County,916991.7086277428
+07836,NJ,Flanders,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,649458.400610603
+07102,NJ,Newark,"New York-Newark-Jersey City, NY-NJ-PA",Essex County,440359.1264656018
+07043,NJ,Montclair,"New York-Newark-Jersey City, NY-NJ-PA",Essex County,1259879.3327035925
+07009,NJ,Cedar Grove,"New York-Newark-Jersey City, NY-NJ-PA",Essex County,731485.4798077065
+08260,NJ,Wildwood,"Ocean City, NJ",Cape May County,590496.0786040806
+08824,NJ,Kendall Park,"New York-Newark-Jersey City, NY-NJ-PA",Middlesex County,697267.6264231883
+07504,NJ,Paterson,"New York-Newark-Jersey City, NY-NJ-PA",Passaic County,534829.4946736585
+08318,NJ,Elmer,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Salem County,335929.0684929462
+07660,NJ,Ridgefield Park,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,583887.2525736646
+07436,NJ,Oakland,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,705952.1719363633
+07922,NJ,Berkeley Heights,"New York-Newark-Jersey City, NY-NJ-PA",Union County,880797.7570755546
+08070,NJ,Pennsville,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Salem County,264960.3163781728
+08736,NJ,Manasquan,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,1100428.4547160957
+08534,NJ,Pennington,"Trenton-Princeton, NJ",Mercer County,670306.1388246907
+07885,NJ,Wharton,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,489610.2117027988
+07604,NJ,Hasbrouck Heights,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,675376.726775082
+07452,NJ,Glen Rock,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,972465.4299934668
+07932,NJ,Florham Park,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,941632.439330119
+07513,NJ,Paterson,"New York-Newark-Jersey City, NY-NJ-PA",Passaic County,538544.4286695808
+08048,NJ,Lumberton Township,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Burlington County,474681.45389429736
+08502,NJ,Belle Mead,"New York-Newark-Jersey City, NY-NJ-PA",Somerset County,968745.9576703632
+07661,NJ,River Edge,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,760852.3822583697
+08629,NJ,Trenton,"Trenton-Princeton, NJ",Mercer County,262761.54833851074
+08609,NJ,Trenton,"Trenton-Princeton, NJ",Mercer County,204315.4261916651
+08031,NJ,Bellmawr,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Camden County,304816.64747325267
+07458,NJ,Upper Saddle River,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,1470514.717410643
+07456,NJ,Ringwood,"New York-Newark-Jersey City, NY-NJ-PA",Passaic County,564667.2435101533
+08079,NJ,Salem,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Salem County,224815.18881178708
+07643,NJ,Little Ferry,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,561849.4003739684
+07057,NJ,Wallington,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,614351.1927476019
+07035,NJ,Lincoln Park,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,519140.3997888446
+07734,NJ,Keansburg,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,400040.1989231313
+07657,NJ,Ridgefield,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,720560.1636302272
+07821,NJ,Byram Township,"New York-Newark-Jersey City, NY-NJ-PA",Sussex County,495280.9301889995
+08251,NJ,Villas,"Ocean City, NJ",Cape May County,388891.85691124666
+08244,NJ,Somers Point,"Atlantic City-Hammonton, NJ",Atlantic County,404989.358572454
+07442,NJ,Pompton Lakes,"New York-Newark-Jersey City, NY-NJ-PA",Passaic County,524461.310007034
+07417,NJ,Franklin Lakes,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,1392217.2186941823
+08010,NJ,Edgewater Park Township,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Burlington County,316420.22698358883
+07512,NJ,Totowa,"New York-Newark-Jersey City, NY-NJ-PA",Passaic County,619800.8076610961
+08322,NJ,Franklinville,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Gloucester County,359798.493378544
+08835,NJ,Manville,"New York-Newark-Jersey City, NY-NJ-PA",Somerset County,468048.34999099147
+07310,NJ,Jersey City,"New York-Newark-Jersey City, NY-NJ-PA",Hudson County,970490.7476733292
+08722,NJ,Beachwood,"New York-Newark-Jersey City, NY-NJ-PA",Ocean County,445866.8965508578
+07843,NJ,Hopatcong,"New York-Newark-Jersey City, NY-NJ-PA",Sussex County,412891.6381119825
+08512,NJ,Cranbury Township,"New York-Newark-Jersey City, NY-NJ-PA",Middlesex County,738900.681691309
+07936,NJ,East Hanover Township,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,808244.4936959037
+08620,NJ,Trenton,"Trenton-Princeton, NJ",Mercer County,454629.37681531115
+07045,NJ,Montville,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,790746.9431121164
+08226,NJ,Ocean City,"Ocean City, NJ",Cape May County,1026107.6136105418
+07722,NJ,Colts Neck Township,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,1236422.535651936
+07438,NJ,Oak Ridge,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,504361.670718607
+07642,NJ,Hillsdale,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,772146.3234295299
+07607,NJ,Maywood,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,643664.7441143609
+07444,NJ,Pompton Plains,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,671451.442136522
+07034,NJ,Lake Hiawatha,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,512171.5135619856
+08004,NJ,Atco,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Camden County,336390.03376422887
+07463,NJ,Waldwick,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,685612.8809820228
+08083,NJ,Somerdale,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Camden County,332164.1097830594
+07419,NJ,Hamburg,"New York-Newark-Jersey City, NY-NJ-PA",Sussex County,375357.089429442
+07876,NJ,Succasunna,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,640255.9909870351
+08093,NJ,Westville,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Gloucester County,273340.7948083742
+07945,NJ,Mendham,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,1032368.62535854
+08201,NJ,Absecon,"Atlantic City-Hammonton, NJ",Atlantic County,322523.03337819467
+08833,NJ,Lebanon Borough,"New York-Newark-Jersey City, NY-NJ-PA",Hunterdon County,709464.8904833187
+07073,NJ,East Rutherford,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,600782.0643000278
+08106,NJ,Audubon,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Camden County,364515.79065483407
+07075,NJ,Wood Ridge,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,656173.8600573326
+08071,NJ,Pitman,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Gloucester County,346824.5766808202
+08098,NJ,Woodstown,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Salem County,379600.9924949047
+08515,NJ,Chesterfield Township,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Burlington County,678400.8334005243
+07605,NJ,Leonia,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,789351.4015495571
+07676,NJ,Township of Washington,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,779071.6719478751
+07020,NJ,Edgewater,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,661099.8311703958
+07825,NJ,Blairstown Township,"Allentown-Bethlehem-Easton, PA-NJ",Warren County,486920.1200649583
+07874,NJ,Stanhope,"New York-Newark-Jersey City, NY-NJ-PA",Sussex County,422598.93469592434
+07760,NJ,Rumson,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,1676972.634429315
+07626,NJ,Cresskill,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,966849.7282995408
+08270,NJ,Woodbine,"Ocean City, NJ",Cape May County,316567.8142293861
+08406,NJ,Ventnor City,"Atlantic City-Hammonton, NJ",Atlantic County,558978.4672459649
+07656,NJ,Park Ridge,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,802595.0992856454
+07603,NJ,Bogota,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,577279.2150228971
+08225,NJ,Northfield,"Atlantic City-Hammonton, NJ",Atlantic County,371552.3560405374
+07981,NJ,Whippany,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,716864.8845565704
+08066,NJ,West Deptford Township,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Gloucester County,219305.85454492585
+08102,NJ,Camden,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Camden County,154981.8091631836
+08628,NJ,Ewing,"Trenton-Princeton, NJ",Mercer County,421228.9338839073
+08090,NJ,Wenonah,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Gloucester County,334334.10439048026
+07624,NJ,Closter,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,1071892.1091307902
+07764,NJ,West Long Branch,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,967194.7059121322
+08051,NJ,Mantua,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Gloucester County,297389.59693204943
+08086,NJ,West Deptford Township,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Gloucester County,343902.1224347694
+08884,NJ,Spotswood,"New York-Newark-Jersey City, NY-NJ-PA",Middlesex County,533684.7038909512
+08810,NJ,Dayton,"New York-Newark-Jersey City, NY-NJ-PA",Middlesex County,618295.9830644255
+07645,NJ,Montvale,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,870799.8112121738
+08889,NJ,Whitehouse Station,"New York-Newark-Jersey City, NY-NJ-PA",Hunterdon County,691436.4258535256
+07033,NJ,Kenilworth,"New York-Newark-Jersey City, NY-NJ-PA",Union County,601389.313912448
+07849,NJ,Lake Hopatcong,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,512626.69355335063
+08869,NJ,Raritan,"New York-Newark-Jersey City, NY-NJ-PA",Somerset County,535758.4241834871
+08022,NJ,Mansfield Township,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Burlington County,499095.24702663097
+08801,NJ,Annandale,"New York-Newark-Jersey City, NY-NJ-PA",Hunterdon County,603706.4600591711
+07028,NJ,Glen Ridge,"New York-Newark-Jersey City, NY-NJ-PA",Essex County,1083207.678555841
+07762,NJ,Spring Lake,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,1248374.0388618908
+07930,NJ,Chester,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,885871.4598899353
+07421,NJ,West Milford,"New York-Newark-Jersey City, NY-NJ-PA",Passaic County,465886.6200296486
+07630,NJ,Emerson,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,735190.7545091277
+08850,NJ,Milltown,"New York-Newark-Jersey City, NY-NJ-PA",Middlesex County,567033.9298733902
+07924,NJ,Bernardsville,"New York-Newark-Jersey City, NY-NJ-PA",Somerset County,970989.4113151
+07716,NJ,Atlantic Highlands,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,779400.3777130047
+08203,NJ,Brigantine,"Atlantic City-Hammonton, NJ",Atlantic County,664679.0929104033
+08558,NJ,Skillman,"New York-Newark-Jersey City, NY-NJ-PA",Somerset County,1005557.011360928
+08823,NJ,Franklin Park,"New York-Newark-Jersey City, NY-NJ-PA",Somerset County,399328.1362720243
+08848,NJ,Milford,"New York-Newark-Jersey City, NY-NJ-PA",Hunterdon County,511440.6288495708
+08078,NJ,Runnemede,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Camden County,306327.8233396548
+07649,NJ,Oradell,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,913541.9899886596
+07041,NJ,Millburn,"New York-Newark-Jersey City, NY-NJ-PA",Essex County,1173632.3988874613
+07023,NJ,Fanwood,"New York-Newark-Jersey City, NY-NJ-PA",Union County,741050.2787769692
+08758,NJ,Waretown,"New York-Newark-Jersey City, NY-NJ-PA",Ocean County,528021.0402339349
+07921,NJ,Bedminster,"New York-Newark-Jersey City, NY-NJ-PA",Somerset County,483060.8509657848
+08065,NJ,Palmyra,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Burlington County,302316.9886388471
+07092,NJ,Mountainside,"New York-Newark-Jersey City, NY-NJ-PA",Union County,1004116.6414711856
+08530,NJ,Lambertville,"New York-Newark-Jersey City, NY-NJ-PA",Hunterdon County,632266.0519135357
+08035,NJ,Haddon Heights,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Camden County,455789.9218904637
+07004,NJ,Fairfield,"New York-Newark-Jersey City, NY-NJ-PA",Essex County,770204.2155529688
+08068,NJ,Pemberton Township,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Burlington County,329684.63690327783
+07462,NJ,Vernon,"New York-Newark-Jersey City, NY-NJ-PA",Sussex County,296356.84426744544
+07830,NJ,Califon,"New York-Newark-Jersey City, NY-NJ-PA",Hunterdon County,729620.8553653182
+07465,NJ,Wanaque,"New York-Newark-Jersey City, NY-NJ-PA",Passaic County,514425.3272719357
+07432,NJ,Midland Park,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,699099.7482671454
+08533,NJ,New Egypt,"New York-Newark-Jersey City, NY-NJ-PA",Ocean County,536324.0372635785
+08008,NJ,Long Beach Township,"New York-Newark-Jersey City, NY-NJ-PA",Ocean County,1740160.7077553386
+07403,NJ,Bloomingdale,"New York-Newark-Jersey City, NY-NJ-PA",Passaic County,526039.3939176929
+08312,NJ,Clayton,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Gloucester County,314086.28148666973
+07823,NJ,Belvidere,"Allentown-Bethlehem-Easton, PA-NJ",Warren County,372917.9710052743
+08084,NJ,Stratford,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Camden County,322845.1255950453
+07401,NJ,Allendale,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,1018449.3135934452
+07069,NJ,Watchung,"New York-Newark-Jersey City, NY-NJ-PA",Somerset County,1028731.6951848896
+07072,NJ,Carlstadt,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,628569.0291017299
+07738,NJ,Lincroft,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,963041.1561433184
+07850,NJ,Landing,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,502632.29777470394
+07727,NJ,Farmingdale,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,797596.8471179191
+08734,NJ,Lanoka Harbor,"New York-Newark-Jersey City, NY-NJ-PA",Ocean County,535606.6323290854
+07755,NJ,Oakhurst,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,997138.036177869
+08501,NJ,Allentown,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,710177.3278432898
+08809,NJ,Clinton,"New York-Newark-Jersey City, NY-NJ-PA",Hunterdon County,497304.05181175406
+08886,NJ,Stewartsville,"Allentown-Bethlehem-Easton, PA-NJ",Warren County,478431.3043761566
+07704,NJ,Fair Haven,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,1429107.0717360687
+08036,NJ,Hainesport Township,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Burlington County,503200.7149292363
+08221,NJ,Linwood,"Atlantic City-Hammonton, NJ",Atlantic County,448009.8915029768
+08551,NJ,Ringoes,"New York-Newark-Jersey City, NY-NJ-PA",Hunterdon County,702600.6204427042
+07739,NJ,Little Silver,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,1030979.8392264108
+07082,NJ,Towaco,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,826063.9762048101
+07677,NJ,Woodcliff Lake,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,1148385.3201287943
+08007,NJ,Barrington,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Camden County,336993.64872091106
+07068,NJ,Roseland,"New York-Newark-Jersey City, NY-NJ-PA",Essex County,750203.8073036852
+07648,NJ,Norwood,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,848055.2955950769
+07757,NJ,Oceanport,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,890325.3378516162
+08059,NJ,Mount Ephraim,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Camden County,294187.6181695095
+08826,NJ,Glen Gardner,"New York-Newark-Jersey City, NY-NJ-PA",Hunterdon County,543387.2610371443
+08091,NJ,West Berlin,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Camden County,347633.5995306052
+07662,NJ,Rochelle Park,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,607058.4802062117
+08343,NJ,Monroeville,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Gloucester County,379454.2489960983
+08559,NJ,Stockton,"New York-Newark-Jersey City, NY-NJ-PA",Hunterdon County,655127.5441664276
+07416,NJ,Franklin,"New York-Newark-Jersey City, NY-NJ-PA",Sussex County,376410.1359869333
+08344,NJ,Newfield,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Gloucester County,308937.7519332024
+07931,NJ,Far Hills,"New York-Newark-Jersey City, NY-NJ-PA",Somerset County,1400614.259843595
+08402,NJ,Margate City,"Atlantic City-Hammonton, NJ",Atlantic County,968835.2354444502
+08029,NJ,Glendora,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Camden County,311292.8072783231
+08056,NJ,Mickleton,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Gloucester County,574330.804135432
+08510,NJ,Millstone Township,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,910404.7872178744
+08230,NJ,Ocean View,"Ocean City, NJ",Cape May County,450161.6234130061
+07647,NJ,Northvale,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,722244.610429726
+07702,NJ,Shrewsbury,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,921438.4904464243
+07856,NJ,Mount Arlington,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,485831.67496102327
+07058,NJ,Pine Brook,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,877201.5668648453
+08535,NJ,Millstone Township,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,901647.1887750564
+08827,NJ,Hampton,"New York-Newark-Jersey City, NY-NJ-PA",Hunterdon County,575962.7754435838
+08049,NJ,Magnolia,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Camden County,313065.42503012187
+07718,NJ,Belford,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,583074.1964512863
+08853,NJ,Branchburg Township,"New York-Newark-Jersey City, NY-NJ-PA",Somerset County,838472.728996702
+07826,NJ,Branchville,"New York-Newark-Jersey City, NY-NJ-PA",Sussex County,437038.9920865721
+07440,NJ,Pequannock,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,641562.2714148482
+07420,NJ,Wanaque,"New York-Newark-Jersey City, NY-NJ-PA",Passaic County,467985.885541858
+07732,NJ,Highlands,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,567169.3313838063
+07627,NJ,Demarest,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,1280694.027857892
+08242,NJ,Rio Grande,"Ocean City, NJ",Cape May County,409009.02494799934
+08518,NJ,Florence,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Burlington County,326709.59237591154
+08867,NJ,Pittstown,"New York-Newark-Jersey City, NY-NJ-PA",Hunterdon County,716310.0537927783
+08514,NJ,Cream Ridge,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,676235.2654536306
+08730,NJ,Brielle,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,1127855.5728960575
+08825,NJ,Frenchtown,"New York-Newark-Jersey City, NY-NJ-PA",Hunterdon County,560441.0098604508
+07064,NJ,Port Reading,"New York-Newark-Jersey City, NY-NJ-PA",Middlesex County,501834.3515556956
+08562,NJ,North Hanover Township,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Burlington County,506779.19491510186
+08089,NJ,Waterford Works,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Camden County,321301.2308240904
+08027,NJ,Gibbstown,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Gloucester County,311447.38867234386
+08880,NJ,South Bound Brook,"New York-Newark-Jersey City, NY-NJ-PA",Somerset County,459888.49154743337
+07640,NJ,Harrington Park,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,911088.4938706356
+08223,NJ,Marmora,"Ocean City, NJ",Cape May County,467591.3478636453
+08525,NJ,Hopewell,"Trenton-Princeton, NJ",Mercer County,670711.7526853661
+07632,NJ,Englewood Cliffs,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,1598941.2224899158
+08542,NJ,Princeton,"Trenton-Princeton, NJ",Mercer County,847510.7846377757
+07046,NJ,Mountain Lakes,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,1123382.3139820865
+07014,NJ,Clifton,"New York-Newark-Jersey City, NY-NJ-PA",Passaic County,542622.3879449033
+07863,NJ,Oxford,"Allentown-Bethlehem-Easton, PA-NJ",Warren County,388274.3554006326
+07027,NJ,Garwood,"New York-Newark-Jersey City, NY-NJ-PA",Union County,658651.1397515876
+07460,NJ,Stockholm,"New York-Newark-Jersey City, NY-NJ-PA",Sussex County,423956.9624506564
+07422,NJ,Highland Lake,"New York-Newark-Jersey City, NY-NJ-PA",Sussex County,390513.1652709514
+08554,NJ,Roebling,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Burlington County,302065.1813789001
+08836,NJ,Bridgewater Township,"New York-Newark-Jersey City, NY-NJ-PA",Somerset County,847294.7943876218
+08020,NJ,Clarksboro,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Gloucester County,415591.51643171953
+07423,NJ,Ho Ho Kus,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,1171923.69301248
+07720,NJ,Bradley Beach,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,1022793.5462545538
+08097,NJ,Woodbury Heights,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Gloucester County,337183.6426205253
+07721,NJ,Cliffwood,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,507596.26730598946
+08560,NJ,Titusville,"Trenton-Princeton, NJ",Mercer County,656589.4604763394
+07457,NJ,Riverdale,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,462975.2650158188
+07827,NJ,Montague Township,"New York-Newark-Jersey City, NY-NJ-PA",Sussex County,309708.7780864029
+08735,NJ,Lavallette,"New York-Newark-Jersey City, NY-NJ-PA",Ocean County,1089230.62402847
+07803,NJ,Mine Hill Township,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,486123.5766984769
+07848,NJ,Lafayette Township,"New York-Newark-Jersey City, NY-NJ-PA",Sussex County,461088.09475169494
+07832,NJ,Columbia,"Allentown-Bethlehem-Easton, PA-NJ",Warren County,442106.31436208566
+07927,NJ,Cedar Knolls,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,727207.777954474
+08802,NJ,Asbury,"New York-Newark-Jersey City, NY-NJ-PA",Hunterdon County,567791.2173619528
+07758,NJ,Port Monmouth,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,576047.2169320313
+07838,NJ,Great Meadows,"Allentown-Bethlehem-Easton, PA-NJ",Warren County,468430.8275859321
+07088,NJ,Union,"New York-Newark-Jersey City, NY-NJ-PA",Union County,474874.1179818216
+08741,NJ,Pine Beach,"New York-Newark-Jersey City, NY-NJ-PA",Ocean County,540437.0958719641
+08751,NJ,Seaside Heights,"New York-Newark-Jersey City, NY-NJ-PA",Ocean County,669099.7926638586
+08750,NJ,Sea Girt,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,2157729.2925661337
+08829,NJ,High Bridge,"New York-Newark-Jersey City, NY-NJ-PA",Hunterdon County,427078.8838691849
+08804,NJ,Bloomsbury,"New York-Newark-Jersey City, NY-NJ-PA",Hunterdon County,477166.8519543244
+08092,NJ,West Creek,"New York-Newark-Jersey City, NY-NJ-PA",Ocean County,497244.21543533006
+07946,NJ,Millington,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,840061.3051411115
+07857,NJ,Netcong,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,475952.0932097845
+07077,NJ,Sewaren,"New York-Newark-Jersey City, NY-NJ-PA",Middlesex County,491163.757486497
+07641,NJ,Haworth,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,1063769.4366780396
+07750,NJ,Monmouth Beach,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,1051440.0169341085
+08063,NJ,National Park,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Gloucester County,269023.3189411541
+07756,NJ,Neptune Township,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,872860.2599466437
+08045,NJ,Lawnside,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Camden County,285132.32843595
+07933,NJ,Gillette,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,738371.0327576841
+08243,NJ,Sea Isle City,"Ocean City, NJ",Cape May County,1371425.9129575056
+08310,NJ,Buena,"Atlantic City-Hammonton, NJ",Atlantic County,333689.8418709813
+07852,NJ,Ledgewood,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,516836.6932325119
+08733,NJ,Whiting,"New York-Newark-Jersey City, NY-NJ-PA",Ocean County,370434.432719264
+08349,NJ,Port Norris,"Vineland-Bridgeton, NJ",Cumberland County,219424.76367880488
+07980,NJ,Stirling,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,716788.0463037208
+07435,NJ,Newfoundland,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,592423.9136233157
+08752,NJ,Seaside Park,"New York-Newark-Jersey City, NY-NJ-PA",Ocean County,824585.0657848233
+08026,NJ,Gibbsboro,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Camden County,360032.37637446844
+08311,NJ,Cedarville,"Vineland-Bridgeton, NJ",Cumberland County,267036.9964362022
+07737,NJ,Leonardo,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,596715.6977294125
+08828,NJ,Helmetta,"New York-Newark-Jersey City, NY-NJ-PA",Middlesex County,416055.3383209523
+07021,NJ,Essex Fells,"New York-Newark-Jersey City, NY-NJ-PA",Essex County,1306684.2017867218
+07439,NJ,Ogdensburg,"New York-Newark-Jersey City, NY-NJ-PA",Sussex County,414396.07352018263
+07865,NJ,Port Murray,"New York-Newark-Jersey City, NY-NJ-PA",Hunterdon County,486738.4377307266
+07074,NJ,Moonachie,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,632876.0671271066
+08061,NJ,Mount Royal,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Gloucester County,431690.15055410826
+08732,NJ,Island Heights,"New York-Newark-Jersey City, NY-NJ-PA",Ocean County,618490.1846854346
+07606,NJ,South Hackensack,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,674894.9049520002
+07717,NJ,Avon by the Sea,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,1664548.0168314166
+07418,NJ,Glenwood,"New York-Newark-Jersey City, NY-NJ-PA",Sussex County,439152.6950962005
+08067,NJ,Pedricktown,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Salem County,332202.87212317326
+08202,NJ,Avalon,"Ocean City, NJ",Cape May County,2676191.221614633
+07847,NJ,Kenvil,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,498677.3745474525
+08740,NJ,Ocean Gate,"New York-Newark-Jersey City, NY-NJ-PA",Ocean County,426465.9009701717
+08019,NJ,Chatsworth,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Burlington County,439637.8041316344
+07711,NJ,Allenhurst,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,2132993.862574348
+08738,NJ,Mantoloking,"New York-Newark-Jersey City, NY-NJ-PA",Ocean County,1954833.3357852665
+07934,NJ,Far Hills,"New York-Newark-Jersey City, NY-NJ-PA",Somerset County,954459.707739255
+08341,NJ,Minotola,"Atlantic City-Hammonton, NJ",Atlantic County,294767.21971991385
+08317,NJ,Dorothy,"Atlantic City-Hammonton, NJ",Atlantic County,339367.5148767855
+08247,NJ,Stone Harbor,"Ocean City, NJ",Cape May County,2374338.515864664
+07723,NJ,Deal,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,3775417.8429470607
+08340,NJ,Milmay,"Atlantic City-Hammonton, NJ",Atlantic County,388282.2203522624
+08041,NJ,Springfield Township,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Burlington County,518952.1318972909
+08887,NJ,Branchburg Township,"New York-Newark-Jersey City, NY-NJ-PA",Hunterdon County,323829.6734847455
+07935,NJ,Green Village,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,1065346.7401953377
+08241,NJ,Port Republic,"Atlantic City-Hammonton, NJ",Atlantic County,410306.5988787552
+08328,NJ,Malaga,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Gloucester County,306832.26759270584
+07822,NJ,Augusta,"New York-Newark-Jersey City, NY-NJ-PA",Sussex County,513667.0158499439
+08403,NJ,Longport,"Atlantic City-Hammonton, NJ",Atlantic County,1402797.9163511184
+08720,NJ,Allenwood,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,957952.9443381996
+08555,NJ,Roosevelt,"New York-Newark-Jersey City, NY-NJ-PA",Monmouth County,472458.69418866705
+08326,NJ,Landisville,"Atlantic City-Hammonton, NJ",Atlantic County,292638.4699800495
+07620,NJ,Alpine,"New York-Newark-Jersey City, NY-NJ-PA",Bergen County,2722178.4023930854
+08319,NJ,Estell Manor,"Atlantic City-Hammonton, NJ",Atlantic County,351884.6167567242
+08553,NJ,Rocky Hill,"New York-Newark-Jersey City, NY-NJ-PA",Somerset County,697044.4128941664
+08350,NJ,Richland,"Atlantic City-Hammonton, NJ",Atlantic County,325337.9591251912
+08511,NJ,New Hanover Township,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Burlington County,426745.6233145946
+07976,NJ,New Vernon,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,1913402.0578162265
+07878,NJ,Denville,"New York-Newark-Jersey City, NY-NJ-PA",Morris County,533557.3803659781
+08323,NJ,Greenwich,"Vineland-Bridgeton, NJ",Cumberland County,298118.61084043543
+08345,NJ,Port Norris,"Vineland-Bridgeton, NJ",Cumberland County,242782.29761864425
+08346,NJ,Newtonville,"Atlantic City-Hammonton, NJ",Atlantic County,314785.5671342018
+08032,NJ,Grenloch,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Gloucester County,292172.69292083103
+08001,NJ,Alloway,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Salem County,275694.7820079977
+08321,NJ,Fortescue,"Vineland-Bridgeton, NJ",Cumberland County,180269.77280341528
+08014,NJ,Bridgeport,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Gloucester County,279871.0775827199
+08353,NJ,Shiloh,"Vineland-Bridgeton, NJ",Cumberland County,294402.33586918126
+08327,NJ,Leesburg,"Vineland-Bridgeton, NJ",Cumberland County,276408.7340165006
+08006,NJ,Barnegat Light,"New York-Newark-Jersey City, NY-NJ-PA",Ocean County,1493224.99405468
+08212,NJ,Cape May Point,"Ocean City, NJ",Cape May County,1446312.5981230866
+08739,NJ,Lavallette,"New York-Newark-Jersey City, NY-NJ-PA",Ocean County,1531427.3087956058
+08248,NJ,Strathmere,"Ocean City, NJ",Cape May County,1509571.8473406702
