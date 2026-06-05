@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Stray PNG files in root
+nj_pfas_map.png
+data/nj_pfas_map.png
+
+# Large raw data files
+data/raw/UCMR5_All_MA_WY.txt
+data/raw/UCMR5_ZIPCodes.txt
+data/raw/ACSDP5Y2024.DP05-Data.csv
+data/raw/ACSST5Y2024.S1901-Data.csv
+data/raw/tl_2024_us_zcta520/
+data/raw/PWS_Boundaries/
+data/raw/Zip_zhvi_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv
