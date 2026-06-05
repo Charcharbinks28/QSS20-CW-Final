@@ -12,7 +12,7 @@ This project investigates whether PFAS (per- and polyfluoroalkyl substances) con
 QSS20-CW-Final/
 ├── code/               # Jupyter notebooks (run in order: 00 → 04)
 ├── data/
-│   ├── raw/            # Large raw files — NOT on GitHub, download separately (see below)
+│   ├── raw/            # Large raw files — NOT on GitHub (auto-downloaded by 00_pull.ipynb)
 │   ├── 01_pulls/       # Processed outputs from 00_pull.ipynb — committed to GitHub
 │   └── cleaned_data/   # Analysis-ready outputs from 01_clean.ipynb & 03_clean_proximity.ipynb
 └── output/             # Output figures (PNG) — committed to GitHub
@@ -26,7 +26,7 @@ Run notebooks in order. Each notebook lists its inputs and outputs below.
 
 | Notebook | Description | Inputs | Outputs |
 |----------|-------------|--------|---------|
-| `code/00_pull.ipynb` | Loads all raw source files, filters to NJ, saves slim versions | `data/raw/` (large files — see below) | `data/01_pulls/*.csv`, `data/01_pulls/*.geojson` |
+| `code/00_pull.ipynb` | Downloads large raw files from Google Drive, filters to NJ, saves slim versions | `data/raw/` (auto-downloaded) | `data/01_pulls/*.csv`, `data/01_pulls/*.geojson` |
 | `code/01_clean.ipynb` | Merges PFAS, census, and Zillow data by ZIP code; flags MCL exceedances | `data/01_pulls/` | `data/cleaned_data/final_map.csv`, `data/cleaned_data/final_clean_census.csv` |
 | `code/02_visualize.ipynb` | ZIP-level maps, scatter plots, Pearson correlations, regression, box plots | `data/cleaned_data/final_map.csv` | `output/*.png` |
 | `code/03_clean_proximity.ipynb` | Spatially joins ECHO facilities to PWS service areas; merges PFAS + demographics at water system level | `data/01_pulls/`, `data/cleaned_data/final_clean_census.csv` | `data/cleaned_data/proximity_final.geojson`, `data/cleaned_data/proximity_final.csv`, `data/cleaned_data/echo_facilities_with_pws.csv` |
@@ -52,18 +52,25 @@ If you only want to run notebooks `01_clean.ipynb` through `04_visualize_proximi
 
 ---
 
-## Raw Source Files (too large for GitHub — download separately)
+## Raw Source Files (too large for GitHub — auto-downloaded)
 
-These files are too large and must be downloaded and manually hardcoded from a local computer before running `00_pull.ipynb`.
-A link to access all of these files directly is here:
-https://drive.google.com/drive/folders/16chMCsDAEOjsihWfeYvnC3JGhDkNuXH9?usp=drive_link
+These files are too large for GitHub. The first cell of `00_pull.ipynb` downloads them automatically from Google Drive using `gdown`. Files already present locally are skipped.
 
-| File | Source | Size |
-|------|--------|------|
-| `UCMR5_All_MA_WY.txt` | [EPA UCMR5](https://www.epa.gov/dwucmr/occurrence-data-unregulated-contaminant-monitoring-rule) | ~175 MB |
-| `tl_2024_us_zcta520/` | [Census TIGER](https://www.census.gov/cgi-bin/geo/shapefiles/index.php) | ~500 MB |
-| `PWS_Boundaries/Service_Areas_V_3_0.gpkg` | [EPA PWS Service Areas](https://www.epa.gov/waterdata/pws-service-area-boundaries) | ~650 MB |
-| `Zip_zhvi_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv` | [Zillow Research](https://www.zillow.com/research/data/) | ~15 MB |
+**Google Drive folder:**
+https://drive.google.com/drive/folders/16chMCsDAEOjsihWfeYvnC3JGhDkNuXH9?usp=sharing
+
+| File | Saved to | Size | Original Source |
+|------|----------|------|-----------------|
+| `UCMR5_All_MA_WY.txt` | `data/raw/` | ~175 MB | [EPA UCMR5](https://www.epa.gov/dwucmr/occurrence-data-unregulated-contaminant-monitoring-rule) |
+| `tl_2024_us_zcta520/` | `data/raw/tl_2024_us_zcta520/` | ~500 MB | [Census TIGER](https://www.census.gov/cgi-bin/geo/shapefiles/index.php) |
+| `Service_Areas_V_3_0.gpkg` | `data/raw/PWS_Boundaries/` | ~650 MB | [EPA PWS Service Areas](https://www.epa.gov/waterdata/pws-service-area-boundaries) |
+| `Zip_zhvi_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv` | `data/raw/` | ~15 MB | [Zillow Research](https://www.zillow.com/research/data/) |
+
+The following file is small enough to be committed to GitHub and is already in `data/raw/`:
+
+| File | Description |
+|------|-------------|
+| `data/raw/Tracts_V_3_0.csv` | Full national PWS-to-Census-tract crosswalk |
 
 The Zillow file uses December 2024 values (`ZHVI_DATE = '2024-12-31'` in `00_pull.ipynb`) to align with the UCMR5 collection period (Jan 2023 to Dec 2025) and Census ACS 5-Year 2024 (covers 2020 to 2024).
 
