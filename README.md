@@ -58,12 +58,12 @@ These files are too large and must be downloaded and manually hardcoded from a l
 A link to access all of these files directly is here:
 https://drive.google.com/drive/folders/16chMCsDAEOjsihWfeYvnC3JGhDkNuXH9?usp=drive_link
 
-| File| Source | Size |
-|---------------|--------|------|-------|
-| `UCMR5_All_MA_WY.txt` | [EPA UCMR5](https://www.epa.gov/dwucmr/occurrence-data-unregulated-contaminant-monitoring-rule) | ~175 MB |
+| File | Source | Size |
+|------|--------|------|
+| `data/raw/UCMR5_All_MA_WY.txt` | [EPA UCMR5](https://www.epa.gov/dwucmr/occurrence-data-unregulated-contaminant-monitoring-rule) | ~175 MB |
 | `data/raw/tl_2024_us_zcta520/` | [Census TIGER](https://www.census.gov/cgi-bin/geo/shapefiles/index.php) | ~500 MB |
-| `Service_Areas_V_3_0.gpkg` | [EPA PWS Service Areas](https://www.epa.gov/waterdata/pws-service-area-boundaries) | ~650 MB |
-| `Zip_zhvi_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv` | [Zillow Research](https://www.zillow.com/research/data/) | ~15 MB |
+| `data/raw/PWS_Boundaries/Service_Areas_V_3_0.gpkg` | [EPA PWS Service Areas](https://www.epa.gov/waterdata/pws-service-area-boundaries) | ~650 MB |
+| `data/raw/Zip_zhvi_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv` | [Zillow Research](https://www.zillow.com/research/data/) | ~15 MB |
 
 The Zillow file uses December 2024 values (`ZHVI_DATE = '2024-12-31'` in `00_pull.ipynb`) to align with the UCMR5 collection period (Jan 2023 to Dec 2025) and Census ACS 5-Year 2024 (covers 2020 to 2024).
 
