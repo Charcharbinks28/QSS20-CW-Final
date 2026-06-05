@@ -54,19 +54,16 @@ If you only want to run notebooks `01_clean.ipynb` through `04_visualize_proximi
 
 ## Raw Source Files (too large for GitHub — download separately)
 
-These files must be downloaded and placed in `data/raw/` before running `00_pull.ipynb`.
-All paths in the notebook use `DATA_RAW` — no hardcoded absolute paths.
+These files are too large and must be downloaded and manually hardcoded from a local computer before running `00_pull.ipynb`.
+A link to access all of these files directly is here:
+https://drive.google.com/drive/folders/16chMCsDAEOjsihWfeYvnC3JGhDkNuXH9?usp=drive_link
 
-| File / Folder | Source | Size | Notes |
+| File| Source | Size |
 |---------------|--------|------|-------|
-| `data/raw/UCMR5_All_MA_WY.txt` | [EPA UCMR5](https://www.epa.gov/dwucmr/occurrence-data-unregulated-contaminant-monitoring-rule) | ~175 MB | Download "UCMR 5 Occurrence Data" ZIP, extract the `.txt` file |
-| `data/raw/UCMR5_ZIPCodes.txt` | [EPA UCMR5](https://www.epa.gov/dwucmr/occurrence-data-unregulated-contaminant-monitoring-rule) | ~0.5 MB | From the same UCMR5 download |
-| `data/raw/ACSDP5Y2024.DP05-Data.csv` | [Census Bureau ACS DP05](https://data.census.gov) | ~1 MB | 2024 ACS 5-Year, Table DP05, NJ ZCTAs |
-| `data/raw/ACSST5Y2024.S1901-Data.csv` | [Census Bureau ACS S1901](https://data.census.gov) | ~1 MB | 2024 ACS 5-Year, Table S1901, NJ ZCTAs |
-| `data/raw/tl_2024_us_zcta520/` | [Census TIGER](https://www.census.gov/cgi-bin/geo/shapefiles/index.php) | ~500 MB | 2024 ZIP Code Tabulation Areas shapefile — extract entire folder |
-| `data/raw/PWS_Boundaries/` | [EPA PWS Service Areas](https://www.epa.gov/waterdata/pws-service-area-boundaries) | ~650 MB | Download and extract folder; needs `Service_Areas_V_3_0.gpkg` and `Census_Tables/Tracts_V_3_0.csv` |
-| `data/raw/Zip_zhvi_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv` | [Zillow Research](https://www.zillow.com/research/data/) | ~15 MB | ZHVI All Homes (SFR + Condo), ZIP code level |
-| `data/raw/2217deab-2b3d-4828-bbd2-757bcbe06e2c.xlsx` | [EPA ECHO](https://echo.epa.gov) | ~1 MB | PFAS-Handling Sectors for NJ — already in `data/raw/` |
+| `UCMR5_All_MA_WY.txt` | [EPA UCMR5](https://www.epa.gov/dwucmr/occurrence-data-unregulated-contaminant-monitoring-rule) | ~175 MB |
+| `data/raw/tl_2024_us_zcta520/` | [Census TIGER](https://www.census.gov/cgi-bin/geo/shapefiles/index.php) | ~500 MB |
+| `Service_Areas_V_3_0.gpkg` | [EPA PWS Service Areas](https://www.epa.gov/waterdata/pws-service-area-boundaries) | ~650 MB |
+| `Zip_zhvi_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv` | [Zillow Research](https://www.zillow.com/research/data/) | ~15 MB |
 
 The Zillow file uses December 2024 values (`ZHVI_DATE = '2024-12-31'` in `00_pull.ipynb`) to align with the UCMR5 collection period (Jan 2023 to Dec 2025) and Census ACS 5-Year 2024 (covers 2020 to 2024).
 
