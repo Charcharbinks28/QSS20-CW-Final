@@ -4,6 +4,8 @@
 
 This project investigates whether PFAS (per- and polyfluoroalkyl substances) contamination in New Jersey drinking water is disproportionately concentrated in communities of color, lower-income neighborhoods, and areas near industrial facilities. Using data from the EPA's Unregulated Contaminant Monitoring Rule (UCMR 5), ZIP code-level and water-system-level demographic data from the U.S. Census, Zillow home value data, EPA ECHO industrial facility data, and EPA public water system service area boundaries, the analysis examines PFAS exposure across NJ at two geographic scales: ZIP codes and water system service areas.
 
+## Link to Website
+https://newjerseypfas-qss20.lovable.app
 ---
 
 ## Directory Structure
